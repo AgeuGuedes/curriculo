@@ -5,6 +5,11 @@
 
 ---
 
+## Sobre Mim
+Estudante de Engenharia de Software no Centro Universitário Filadélfia - UniFil, atualmente no 3º ano, com previsão de conclusão em 2026. Busco uma oportunidade de estágio para aplicar e aprimorar meus conhecimentos na área de desenvolvimento de software.
+
+---
+
 ## RESUMO DE QUALIFICAÇÕES
 - Estudante de Engenharia de Software, com experiência em comunicação e trabalho em equipe.  
 - Conhecimentos em desenvolvimento web, incluindo PHP, Laravel, SQL, Python, C# e tecnologias de front-end.  
