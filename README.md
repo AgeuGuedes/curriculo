@@ -11,11 +11,16 @@ Estudante de Engenharia de Software no Centro Universitário Filadélfia - UniFi
 - Engenharia de Software - Centro Universitário Filadélfia (UniFil)  
   - Período: 2024 - 2026 (previsão)
 
+## Experiência Profissional
+- **Corretora de Seguros** (5 anos)  
+  - Atuei por 5 anos em uma corretora de seguros, onde desenvolvi habilidades importantes, como comunicação eficaz, trabalho em equipe, organização e disciplina. Apesar de não ser uma área de tecnologia, essa experiência me ensinou a lidar com pessoas de diferentes perfis e a manter o foco em resultados.
+
 ## Habilidades
-- Linguagens de Programação: Python, JavaScript, Java
-- Versionamento de Código: Git e GitHub
-- Desenvolvimento Web: HTML, CSS, React
-- Banco de Dados: MySQL
+- **Linguagens de Programação**: PHP, HTML, CSS, JavaScript (básico)
+- **Banco de Dados**: MySQL
+- **Versionamento de Código**: Git e GitHub
+- **Desenvolvimento Web**: Noções básicas de HTML e CSS
+- **Idiomas**: Inglês - Intermediário
 
 ## Projetos no GitHub
 - [Sistema de Gestão de Hackathons](https://github.com/AgeuGuedes/sistema-hackathons) - Interface para gerenciamento de alunos e registro de participação.
