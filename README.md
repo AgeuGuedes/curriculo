@@ -38,8 +38,7 @@ Estudante de Engenharia de Software no Centro Universitário Filadélfia - UniFi
 
 **Corretora de Seguros** (5 anos)  
 *Assistente Administrativo*  
-- Durante 5 anos, desenvolvi habilidades valiosas em comunicação, trabalho em equipe, organização e disciplina.  
-- Embora a experiência não tenha sido em uma área técnica, aprendi a lidar com diferentes perfis de pessoas, gerir prazos e melhorar a eficiência nos processos diários.
+- Atuei por 5 anos em uma corretora de seguros, onde desenvolvi habilidades importantes, como comunicação eficaz, trabalho em equipe, organização e disciplina. Apesar de não ser uma área de tecnologia, essa experiência me ensinou a lidar com pessoas de diferentes perfis e a manter o foco na resolução de problemas e na entrega de resultados dentro dos prazos estabelecidos.
 
 ---
 
