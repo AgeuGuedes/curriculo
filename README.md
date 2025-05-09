@@ -12,7 +12,7 @@ Estudante de Engenharia de Software no Centro Universitário Filadélfia - UniFi
 
 ## RESUMO DE QUALIFICAÇÕES
 - Estudante de Engenharia de Software, com experiência em comunicação e trabalho em equipe.  
-- Conhecimentos em desenvolvimento web, incluindo PHP, Laravel, SQL, Python, C#.  
+- Conhecimentos em desenvolvimento web, incluindo PHP, Laravel, SQL, Python.  
 - Motivado para aprender novas tecnologias e aprimorar habilidades técnicas.  
 - Focado no desenvolvimento de soluções práticas e eficientes para contribuir em projetos de software.
 
@@ -25,7 +25,7 @@ Estudante de Engenharia de Software no Centro Universitário Filadélfia - UniFi
 ---
 
 ## HABILIDADES E TECNOLOGIAS
-- **Linguagens de Programação**: Python, C#, PHP, JavaScript (básico)  
+- **Linguagens de Programação**: Python, PHP, JavaScript (básico)  
 - **Frameworks**: Laravel  
 - **Banco de Dados**: MySQL  
 - **Versionamento de Código**: Git e GitHub  
